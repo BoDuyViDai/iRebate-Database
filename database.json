@@ -1,0 +1,13 @@
+{
+  "title": "iRebates",
+  "version": "1.0.0",
+  "users": [
+    {
+      "id": "",
+      "api_aff_key": "",
+      "api_aff_secret": "",
+      "api_key": "",
+      "api_secret": ""
+    }
+  ]
+}
