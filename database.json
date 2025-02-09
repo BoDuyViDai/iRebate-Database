@@ -4,6 +4,7 @@
   "users": [
     {
       "id": "388463842",
+      "user": "Nguyen Van Duy",
       "api_aff_key": "",
       "api_aff_secret": "",
       "api_key": "",
@@ -11,6 +12,7 @@
     },
     {
       "id": "359552159",
+      "user": "Truong",
       "api_aff_key": "",
       "api_aff_secret": "",
       "api_key": "",
